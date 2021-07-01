@@ -114,7 +114,7 @@ section .imgbx {
   left: 35%;
 }
 section .imgbx img {
-  max-height: 700px;
+  max-height: 650px;
 }
 section .content p {
   color: #fff;
@@ -235,7 +235,7 @@ section .content p {
     position: relative;
   }
   section .imgbx img {
-    max-height: 700px;
+    max-height: 650px;
     margin-top: 20%;
   }
 }
