@@ -1,6 +1,6 @@
 # Responsive Heineken Beer Landing Page
 
-## [See Live Preview](https://cr7-ronaldo.netlify.app/)
+## [See Live Preview](https://heineken-beer.netlify.app/)
 
 ###  Responsive Heineken Beer Landing Page
 
